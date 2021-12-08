@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stephensquid
 - 👀 I’m interested in ... software engineering
 - 🌱 I’m currently learning ... software engineering
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... anything!
 - 📫 How to reach me ... stephenasmith6623@gmail.com
 
 <!---
